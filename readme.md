@@ -29,10 +29,8 @@ No bugs reported as 2 July 2019
 ## Technologies Used
 HTML
 
-## Support and contact details
-If any bugs found email them to hidalie@gmail.com, will be worked on.
-
-## Contact Me
+## Support and Contact details
+If any bugs found email them to hidalie@gmail.com, will be worked on. 
 * hidalie@gmail.com
 * Donate BTC to this address 3JdzztBGvxZJZPRe7L5xJsPySBy8dNScK3 
 
